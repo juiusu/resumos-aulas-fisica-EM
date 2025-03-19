@@ -1,0 +1,48 @@
+#+TITLE: Resumos das Aulas de Física
+#+AUTHOR: Joilson Silva Porto
+#+DATE: 2025
+
+
+* Introdução
+Nessa página serão resumidas as aulas de **física** dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM /Campus/ Eirunepé; ministradas no ano de 2025.
+
+O objetivo é construir um material de consulta aos estudantes ao longo do desenvolvimento das disciplinas. 
+
+Sugestões dos alunos serão sempre bem-vindas.
+
+
+** Sugestões sobre como estudar
+Aqui estão algumas técnicas para estudar de forma mais eficiente.
+
+- **Método Feynman**
+
+Baseia-se no fato de que ensinar é uma das melhores formas de aprender.
+
+🌐 [[https://conexao.pucminas.br/blog/dicas/tecnica-feynman/#:~:text=A%20T%C3%A9cnica%20Feynman%20%C3%A9%20um,estivesse%20conversando%20com%20uma%20crian%C3%A7a.][Método Feynman de estudo - Blog PUC Minas]]
+
+- **Repetição Espaçada**
+
+Baseada no conceito da Curva do Esquecimento.
+
+🌐 [[https://blog.duolingo.com/pt/repeticao-espacada-no-aprendizado/][Repetição espaçada no aprendizado - Blog Duolingo]]
+
+- **Técnica do Pomodoro**
+
+Nosso cérebro tem um limite de tempo de concentração e precisa de
+pequenos intervalos de descanso.
+
+🌐 [[https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm][Técnica Pomodoro - Brasil Escola Uol]]
+
+* [[file:pre-fisica.org][Pré-Física]]
+
+* [[file:fisica-1.org][Física I]]
+
+* [[file:fisica-2.org][Física II]]
+
+* [[file:fisica-3.org][Física III]]
+
+* Referências
+- HEWITT, Paul G. *Física Conceitual*. Bookman Editora, 2023.
+- ALVARENGA, Beatriz; MÁXIMO, Antônio. *Física Ensino Médio*. São Paulo: Editora Scipione, 2006.
+
+  
